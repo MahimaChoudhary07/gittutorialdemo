@@ -2,3 +2,4 @@ this is version 1 of the project
 I want this to go to commit 2
 we have mafe few chnages to see the difference
 a new change in first.txt
+let's add something else
